@@ -1,0 +1,6 @@
+table, tr, th {border: 1px solid black;}
+img {
+    border: 1rem;
+    border-radius: 50%;
+    align-items: center;
+}
